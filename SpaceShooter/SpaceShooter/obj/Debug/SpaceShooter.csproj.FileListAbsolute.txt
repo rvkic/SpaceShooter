@@ -1,0 +1,13 @@
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.SuggestedBindingRedirects.cache
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+E:\.NET6\SpaceShooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
